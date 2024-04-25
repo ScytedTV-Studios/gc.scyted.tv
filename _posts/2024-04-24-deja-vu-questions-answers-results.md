@@ -10,6 +10,11 @@ tags:
 
 > **If you haven't already, please make sure to read the [Etiquette](/blog/etiquette).**
 
+## Episode Details
+
+**Title:** Deja Vu <br>
+[Season 6, Episode 6](https://www.dropout.tv/game-changer/season:6/videos/deja-vu) • April 22, 2024 <br>
+
 ## Episode Questions/Answers/Results
 
 **Start of Loop**
@@ -162,3 +167,5 @@ tags:
 | --- |
 | **A16** | (No points scored, question ends when Sam hits the camera) |
 | **Song Lyrics** | *Everybody do the wenis*<br>*The wenis is a dance*<br>*Everybody is a genius*<br>*Who knows it in advance* |
+
+> Find more on "**Deja Vu**": [gc.scyted.tv/blog/deja-vu](/blog/deja-vu#related-topics)
