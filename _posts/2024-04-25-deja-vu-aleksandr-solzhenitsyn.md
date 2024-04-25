@@ -3,7 +3,7 @@ title: Aleksandr Solzhenitsyn [Deja Vu]
 layout: post
 type: blog
 post-image: "../assets/images/blog/s01e01.avif"
-description: <DESCRIPTION>
+description: Deja Vu Theories [Question \#3]
 tags: 
 - Deja Vu
 - Theories
