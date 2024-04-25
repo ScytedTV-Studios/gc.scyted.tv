@@ -4,7 +4,7 @@
         <div class="navbar-brand">
             <a class="navbar-item"
                 href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">
-                <img src="https://cdn.scyted.tv/assets/scytedtv/logos/scytedtv-logo.png" alt="ScytedTV Studios">
+                <img src="https://cdn.scyted.tv/website-assets/website/gc-logo.png" alt="Game Changer Fan Theories">
             </a>
             <div class="navbar-burger" data-target="navbar-menu">
                 <span></span>
@@ -18,12 +18,6 @@
             <div class="navbar-end">
                 <a class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}"
                     href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">Home</a>
-                <a class="navbar-item {% if page.type == 'resources' %}is-active{% endif %}"
-                    href="{{site.url}}{{site.baseurl}}/resources">Resources</a>
-                <!-- <a class="navbar-item {% if page.type == 'discussion' %}is-active{% endif %}"
-                    href="{{site.url}}{{site.baseurl}}/discussions">DISCUSSIONS [beta]</a> -->
-                    {% include cast-dropdown.html %}
-                    {% include content-dropdown.html %}
                 <a class="navbar-item {% if page.type == 'blog' %}is-active{% endif %}"
                     href="{{site.url}}{{site.baseurl}}/blog">Blog</a>
             </div>

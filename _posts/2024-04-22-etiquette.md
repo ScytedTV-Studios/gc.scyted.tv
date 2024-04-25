@@ -2,13 +2,13 @@
 title: Etiquette
 layout: post
 type: blog
-post-image: "{{site.url}}{{site.baseurl}}/assets/images/blog/etiquette.jpg"
+post-image: "../assets/images/meta.jpg"
 description: As a reminder for people who haven't participated in ARGs before (even if this isn't one lol) there's some Etiquette that needs to be established.
 tags: 
 - Etiquette
 ---
 
-As a reminder for people who haven't participated in ARGs before (even if this isn't one lol) there's some Etiquette that needs to be established:
+> As a reminder for people who haven't participated in ARGs before (even if this isn't one lol) there's some Etiquette that needs to be established:
 
 |  | **Rules** |
 | ----- | --------- |

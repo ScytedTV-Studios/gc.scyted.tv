@@ -23,23 +23,23 @@ heroimage: https://cdn.scyted.tv/website-assets/website/gc-hero-image.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: support@scyted.tv
+email: 
 facebook_username:
-twitter_username: scytedtv
-instagram_username: scytedtv
+twitter_username: 
+instagram_username: 
 linkedin_username: 
-github_username:  scytedtv-studios
+github_username:  
 youtube_channel_id: UCBClJ5Q0LTCRtlEYE1oB6Pg
-reddit_username: /scytedtv
+reddit_username: /
 behance_username: /
 dribbble_username: /
-spotify_username: /31idmdqoug7g2jjio2gr2bp2ehiu
+spotify_username: /
 
 # Google Analytics
 google-analytics: G-54KSRP46MF
 
 # Disqus
-disqus-shortname: scytedtv-studios
+disqus-shortname: game-changer-fan-theories
 
 # Name of the Author
 author-name: ScytedTV Studios
