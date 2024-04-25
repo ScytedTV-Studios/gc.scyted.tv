@@ -2,25 +2,24 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://www.scyted.tv'
+url: 'https://gc.scyted.tv'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
-version: 24w16u1d
 
 # Title of the Site
-title: ScytedTV Studios
+title: Game Changer Fan Theories
 # Description of the Site
-description: We create the good shit!
+description: Theories, Findings, etc.
 # URL of Image of the Site
-site-image: /assets/images/meta.jpg
+site-image: /assets/images/meta.avif
 # Keywords of the Site
-site-keywords: ScytedTV, ScytedTV Studios, Entertainment, Media, TV, Movies, YouTube, Content Creation, Content Creating
+site-keywords: Game Changer, Dropout, Game Changer Dropout
 # URL for the Image of custom Favicon
 favicon-url: https://cdn.scyted.tv/favicon.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://cdn.scyted.tv/website-assets/website/hero-image.jpg
+heroimage: https://cdn.scyted.tv/website-assets/website/gc-hero-image.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
