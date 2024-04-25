@@ -16,7 +16,7 @@ site-image: /assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Game Changer, Dropout, Game Changer Dropout
 # URL for the Image of custom Favicon
-favicon-url: https://cdn.scyted.tv/favicon.ico
+favicon-url: https://cdn.scyted.tv/website-assets/website/gc-favicon.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://cdn.scyted.tv/website-assets/website/gc-hero-image.jpg
