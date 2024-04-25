@@ -19,7 +19,6 @@ tags:
 
 **Start of Loop**
 
-
 #### Question 1
 
 | **Q1** | **What chemical element has the atomic number 87?** |
@@ -167,5 +166,7 @@ tags:
 | --- |
 | **A16** | (No points scored, question ends when Sam hits the camera) |
 | **Song Lyrics** | *Everybody do the wenis*<br>*The wenis is a dance*<br>*Everybody is a genius*<br>*Who knows it in advance* |
+
+**End of Loop**
 
 > Find more on "**Deja Vu**": [gc.scyted.tv/blog/deja-vu](/blog/deja-vu#related-topics)
