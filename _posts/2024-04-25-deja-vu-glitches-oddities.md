@@ -3,13 +3,13 @@ title: Glitches and Technical Oddities [Deja Vu]
 layout: post
 type: blog
 post-image: "../assets/images/blog/glitch.png"
-description: Deja Vu Theories
+description: Deja Vu Theories [Glitches and Technical Oddities]
 tags: 
 - Deja Vu
 - Theories
 ---
 
-> **If you haven't already, please make sure to read the [Etiquette](../etiquette).**
+> **If you haven't already, please make sure to read the [Etiquette](/blog/etiquette).**
 
 ## Episode Details
 
@@ -21,17 +21,20 @@ Timestamps noted below.
 
 
 ## "VFX NEEDED" 
+
 | Start | End   | Text       |
 | ----- | ----- | ---------- |
 | 10:47 | 10:48 | VFX NEEDED |
 | 38:27 | 38:30 | VFX NEEDED |
 
 ## Wrong Score Counter
+
 | Start | End   | Image |
 | ----- | ----- | ----- |
 | 28:37 | 28:40 | ![Wrong Score Counter](../assets/images/blog/arg-doc/image12.png) <br> Should be "16" |
 
 ## Loop Timers
+
 | Start | End   | Description |
 | ----- | ----- | ----------- |
 | 00:00 | 09:36 | Loop 1      |
@@ -44,6 +47,7 @@ Timestamps noted below.
 (no surprises found)
 
 #### Loop 3
+
 | Time  | Description         | Screen |
 | ----- | ------------------- | ------ |
 | 19:38 | Mike Trapped        | ![Mike Trapped](../assets/images/blog/arg-doc/image10.png) |
@@ -55,6 +59,7 @@ Timestamps noted below.
 | 26:09 | Grant O'Rerun       | ![Grant O'Rerun](../assets/images/blog/arg-doc/image60.png) |
 
 #### Loop 4
+
 | Time  | Description         | Screen |
 | ----- | ------------------- | ------ |
 | 27:36 | Mlek Ppr4t          | ![Mlek Ppr4t](../assets/images/blog/arg-doc/image21.png) |
@@ -68,6 +73,7 @@ Timestamps noted below.
 | 32:51 | Grant O'Yama        | ![Grant O'Yama](../assets/images/blog/arg-doc/image57.png) |
 
 #### Loop 5
+
 | Time  | Description          | Screen |
 | ----- | -------------------- | ------ |
 | 34:14 | (No cards displayed) | ![Clown](../assets/images/blog/arg-doc/image7.png) |
@@ -80,3 +86,5 @@ Timestamps noted below.
 | 39:08 | (No cards displayed) | ![Glitched Clown](../assets/images/blog/arg-doc/image37.png) |
 | 39:09 | Zac O'Pasta <br> (Ƶαc O’₱αs†α) | ![Zac O'Pasta](../assets/images/blog/arg-doc/image47.png) |
 | ??:?? | ??? | ![image](../assets/images/blog/arg-doc/image14.png) |
+
+> Find more on "**Deja Vu**": [gc.scyted.tv/blog/deja-vu](/blog/deja-vu#related-topics)
