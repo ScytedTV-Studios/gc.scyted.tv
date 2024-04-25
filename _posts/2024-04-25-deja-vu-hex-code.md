@@ -3,7 +3,7 @@ title: HTML HEX Code [Deja Vu]
 layout: post
 type: blog
 post-image: "../assets/images/blog/color-code.png"
-description: Deja Vu Theories [Question #4]
+description: Deja Vu Theories [Question 4]
 tags: 
 - Deja Vu
 - Theories
