@@ -8,6 +8,6 @@ tags:
 - <AT LEAST ONE TAG>
 ---
 
-> **If you haven't already, please make sure to read the [Etiquette](../etiquette).**
+> **If you haven't already, please make sure to read the [Etiquette](/blog/etiquette).**
 
 <CONTENT>

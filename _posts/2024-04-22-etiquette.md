@@ -8,10 +8,8 @@ tags:
 - Etiquette
 ---
 
-> As a reminder for people who haven't participated in ARGs before (even if this isn't one lol) there's some Etiquette that needs to be established:
+As a reminder for people who haven't participated in ARGs before (even if this isn't one lol) there's some Etiquette that needs to be established:
 
-|  | **Rules** |
-| ----- | --------- |
 | **1** | **Never share private info** |
 | **2** | Stick to publicly available Info |
 | **3** | Do not call/email/mail private business or individuals, unless confirmed 100% to be part of the ARG |
