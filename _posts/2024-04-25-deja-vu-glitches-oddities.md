@@ -20,12 +20,19 @@ tags:
 Timestamps noted below.
 
 
-## "VFX NEEDED" 
+<!-- ## "VFX NEEDED" 
 
 | Start | End   | Text       |
 | ----- | ----- | ---------- |
 | 10:47 | 10:48 | VFX NEEDED |
 | 38:27 | 38:30 | VFX NEEDED |
+| ----- | ----- | ---------- |
+| Deja Vu BTS |
+| ----------- |
+| 8:10 | 8:11 | VFX NEEDED |
+
+> *(From discord user alicebubblegirl):*<br>
+> The “VFX NEEDED” texts have disappeared since a reupload on April 30th. -->
 
 ## Wrong Score Counter
 
