@@ -19,6 +19,15 @@ hr.has-background-black {
 <div class="dropdowns">
 
 <details open>
+<summary><strong>May 3, 2024</strong></summary>
+
+<li> Updated the "assets/images/meta.jpg" image. </li>
+
+</details>
+
+<br>
+
+<details>
 <summary><strong>May 2, 2024</strong></summary>
 
 <li> Hid the "VFX NEEDED" section from "Glitches and Technical Oddities [Deja Vu]" to later be added to "Confirmed as NOT part of the ARG". </li>
