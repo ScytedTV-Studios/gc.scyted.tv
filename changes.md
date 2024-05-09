@@ -19,6 +19,15 @@ hr.has-background-black {
 <div class="dropdowns">
 
 <details open>
+<summary><strong>May 8, 2024</strong></summary>
+
+<li> Added the new "Watch Parties" pages. </li>
+
+</details>
+
+<br>
+
+<details>
 <summary><strong>May 3, 2024</strong></summary>
 
 <li> Updated the "assets/images/meta.jpg" image. </li>
