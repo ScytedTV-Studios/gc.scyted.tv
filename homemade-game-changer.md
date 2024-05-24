@@ -72,12 +72,14 @@ type: homemadegamechanger
                 <tr>
                     <th>Name</th>
                     <th>Download</th>
+                    <th>Google Slides</th>
                 </tr>
             </thead>
             <tbody>
                 <tr id="guess-that-phrase">
                     <td>Guess That Phrase!</td>
                     <td><a href="https://github.com/ScytedTV-Studios/Homemade-Game-Changer/releases/download/guess-that-phrase/guess-that-phrase.zip" class="download-btn">Download</a></td>
+                    <td><a href="https://docs.google.com/presentation/d/1TNRHqrPrGUStorfOhmYvULt8P-h9udBFk-MwhG1eVls/edit?usp=sharing" class="download-btn" target="_blank">View</a></td>
                 </tr>
             </tbody>
         </table>
