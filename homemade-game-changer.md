@@ -79,12 +79,12 @@ type: homemadegamechanger
                 <tr id="guess-that-phrase">
                     <td>Guess That Phrase!</td>
                     <td><a href="https://github.com/ScytedTV-Studios/Homemade-Game-Changer/releases/download/guess-that-phrase/guess-that-phrase.zip" class="download-btn">Download</a></td>
-                    <td><a href="https://docs.google.com/presentation/d/1TNRHqrPrGUStorfOhmYvULt8P-h9udBFk-MwhG1eVls/edit?usp=sharing" class="download-btn" target="_blank">View</a></td>
+                    <td><a href="https://docs.google.com/presentation/d/1TNRHqrPrGUStorfOhmYvULt8P-h9udBFk-MwhG1eVls/preview" class="download-btn" target="_blank">View</a></td>
                 </tr>
                 <tr id="like-my-coffee">
                     <td>Like My Coffee</td>
                     <td><a href="https://github.com/ScytedTV-Studios/Homemade-Game-Changer/releases/download/like-my-coffee/like-my-coffee.zip" class="download-btn">Download</a></td>
-                    <td><a href="https://docs.google.com/presentation/d/1UtoLk4osc1NAcXH5JFOOp3RNb95hRYjHRwOnPBWFgqU/edit?usp=sharing" class="download-btn" target="_blank">View</a></td>
+                    <td><a href="https://docs.google.com/presentation/d/1UtoLk4osc1NAcXH5JFOOp3RNb95hRYjHRwOnPBWFgqU/preview" class="download-btn" target="_blank">View</a></td>
                 </tr>
             </tbody>
         </table>
